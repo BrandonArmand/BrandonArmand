@@ -1,19 +1,19 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonArmand)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hey 👋, I'm Brandon</h1>
+<h3 align="center">A Software Engineer passionate about Open Source!</h3>
 
-[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=BrandonArmand)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on [Binari](Binari.dev)
 
-<!--
-**BrandonArmand/BrandonArmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Swift and Game Development**
 
-Here are some ideas to get you started:
+- 🤝 I’m looking for help with [Binari](binari.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript or Python**
+
+- 📫 How to reach me **contact@brandonarmand.com**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonarmand&show_icons=true" alt="brandonarmand" /></p>
+
+<p align="center"> 
+<a href="https://twitter.com/brandon_swe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brandon_swe" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/brandonarmand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandonarmand" height="30" width="30" /></a>
+</p>
