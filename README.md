@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Brandon</h1>
 <h3 align="center">A Software Engineer passionate about Open Source!</h3>
 
-- 🔭 I’m currently working on [Binari](Binari.dev)
+- 🔭 I’m currently working on [Binari](https://Binari.dev) and would love some help 🤝
 
 - 🌱 I’m currently learning **Swift and Game Development**
-
-- 🤝 I’m looking for help with [Binari](binari.dev)
 
 - 💬 Ask me about **JavaScript or Python**
 
