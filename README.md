@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Brandon</h1>
 <h3 align="center">A Software Engineer passionate about Open Source!</h3>
 
-- 🔭 I’m currently working on [Binari](https://Binari.dev) and would love some help 🤝
+- 🔭 I’m currently working on [Binari](https://Binari.dev) ,but am currently focused on my new role @ Facebook! So development as slowed for now.
 
 - 🌱 I’m currently learning **Swift and Game Development**
 
