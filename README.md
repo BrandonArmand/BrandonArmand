@@ -1,17 +1,28 @@
 <h1 align="center">Hey 👋, I'm Brandon</h1>
 <h3 align="center">A Software Engineer passionate about Open Source!</h3>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=brandonarmand&show_icons=true"
+        alt="brandonarmand" /></p>
+<p align="right">
 
-- 🔭 I’m currently working on [Binari](https://Binari.dev) ,but am currently focused on my new role @ Facebook! So development is slowed for now.
+  - 🔭 My most recent project is [Binari](https://Binari.dev).
 
-- 🌱 I’m currently learning **Swift and Game Development**
+  - 🌱 I’m currently learning **Go** and **Rust**
 
-- 💬 Ask me about **JavaScript or Python**
+  - 💬 Ask me about **JavaScript or Python**
 
-- 📫 How to reach me **contact@brandonarmand.com**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonarmand&show_icons=true" alt="brandonarmand" /></p>
-
-<p align="center"> 
-<a href="https://twitter.com/brandon_swe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brandon_swe" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/brandonarmand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandonarmand" height="30" width="30" /></a>
-</p>
+  - 📫 How to reach me **contact@brandonarmand.com**
+  <p align="right">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  </p>
+<p>&nbsp;
