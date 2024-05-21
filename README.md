@@ -8,7 +8,7 @@
 
   - 🌱 I’m currently learning **Go** and **Rust**
 
-  - 💬 Ask me about **JavaScript or Python**
+  - 💬 Ask me about **TypeScript or GoLang**
 
   - 📫 How to reach me **contact@brandonarmand.com**
   <p align="right">
