@@ -6,7 +6,7 @@
 
   - 🔭 My most recent project is [Binari](https://Binari.dev).
 
-  - 🌱 I’m currently learning **Go** and **Rust**
+  - 🌱 I’m currently learning **Godot**
 
   - 💬 Ask me about **TypeScript or GoLang**
 
